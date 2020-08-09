@@ -15,13 +15,17 @@ body {
     color: #ffffff;
 }
 
+.header a:hover {
+    background-color: red;
+}
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: red;
 }
 
 .header div {
